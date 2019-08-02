@@ -3,5 +3,5 @@
   "appName": "App",
   "bundledWebRuntime": false,
   "npmClient": "yarn",
-  "webDir": "www"
+  "webDir": "dist/capacitor"
 }
