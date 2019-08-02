@@ -3,5 +3,10 @@
   "appName": "App",
   "bundledWebRuntime": false,
   "npmClient": "yarn",
-  "webDir": "dist/capacitor"
+	"webDir": "dist/capacitor",
+	"plugins": {
+    "SplashScreen": {
+			"showSpinner": false
+    }
+  }
 }
